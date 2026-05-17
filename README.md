@@ -67,23 +67,6 @@
 
 ---
 
-## 📊 GitHub Insights
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saisagar&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=saisagar&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=saisagar&layout=compact&theme=tokyonight" />
-</div>
-
----
-
-## 🎯 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saisagar&theme=tokyonight&margin-w=10&no-frame=true" />
-</p>
-
----
-
 ## 🌌 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saisagar&bg_color=0f172a&color=38bdf8&line=22d3ee&point=ffffff&area=true&hide_border=true" />
